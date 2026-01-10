@@ -17,8 +17,9 @@ class Usuarios{
   }
   async create(nombre,apellido,telefono,documento,usuario,contraseña,id_ciudad,id_genero){
     try {
-        
-    } catch (error) {
+        const[rows]= await conection.query("....")
+      }
+      catch (error) {
         
     }
   }
