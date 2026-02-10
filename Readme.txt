@@ -1,2 +1,2 @@
 comandos a usar Git hub desde celular ando de viaje 🛩️ ✈️  un día más de viaje vacacionales pa despejar la mente 
-llegue ala universidad jajsun día más sin ir. otro día en la universidad pero con comidita está lloviendo sssdttotroeo día masjsjjsjd
+llegue ala universidad jajsun día más sin ir. otro día en la universidad pero con comidita está lloviendo sssdttotroeo día masjsjjsjdbbbb
