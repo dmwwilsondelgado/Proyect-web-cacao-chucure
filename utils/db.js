@@ -10,3 +10,4 @@ const connection = await mysql.createConnection({
     database:"bb_cacao_chucureño"
 })
 export default connection;
+// connection  mysql
