@@ -1,1 +1,1 @@
-nada que actualizar tengo este proyecto olvidado debo retomar programacion 
+muy olvidada la programcion 
