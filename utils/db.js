@@ -11,3 +11,4 @@ const connection = await mysql.createConnection({
 })
 export default connection;
 // connection  mysql
+// vamos a crear la conexion a postgres como migro ? 
