@@ -1,1 +1,1 @@
-muy olvidada la programcion 
+Retomare este proyecto y migrare a postgrest tambien 
